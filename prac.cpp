@@ -45,6 +45,11 @@ const long long INF = LLONG_MAX >> 1;
 //   return a.s>b.s;
 //   return a.f>b.f;
 
+// bool cmp(int a, int b)
+// {
+//   if(a==b)
+//   return a>b;
+//  }
 
 int main() {
     ios::sync_with_stdio(false);
